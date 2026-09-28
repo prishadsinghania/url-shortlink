@@ -1,0 +1,10 @@
+.env
+/package-lock.json
+venv/
+.pytest_cache/
+.hypothesis/
+__pycache__/
+*.pyc
+.DS_Store
+*.db
+*.log
