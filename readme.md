@@ -41,7 +41,3 @@ python -m pytest -q
 ```
 
 ![Guest mode](docs/guest.png)
-
-## Credits
-
-Based on [BrandonKochnari/url-shortlink](https://github.com/BrandonKochnari/url-shortlink) by Brandon Kochnari and Muhammad Sayed.
